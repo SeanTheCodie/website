@@ -53,7 +53,7 @@ p { margin: 0 0 1rem; }
   height: 72px;
   flex: 0 0 72px;
   border-radius: 14px;
-  background: var(--taupe) url("assets/PAWLogo.png") center / contain no-repeat;
+  background: var(--taupe) url("PAWLogo.png") center / contain no-repeat;
   color: transparent;
   overflow: hidden;
 }
