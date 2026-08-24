@@ -38,7 +38,7 @@ p { margin: 0 0 1rem; }
 .nav { display: flex; align-items: center; justify-content: space-between; padding: 14px 0; }
 .brand { display: flex; align-items: center; gap: 14px; font-weight: 800; letter-spacing: -.03em; }
 
-/* Preferred markup: <img class="brand-logo" src="assets/PAWLogo.png" alt="Positive at Work"> */
+/* Preferred markup: <img class="brand-logo" src="PAWLogo.png" alt="Positive at Work"> */
 .brand-logo {
   display: block;
   width: 88px;
